@@ -1,0 +1,16 @@
+c:\users\rgrv8\onedrive\documentos\visual studio 2017\Projects\WpfApp7\WpfApp7\bin\Debug\WpfApp7.exe.config
+c:\users\rgrv8\onedrive\documentos\visual studio 2017\Projects\WpfApp7\WpfApp7\bin\Debug\WpfApp7.exe
+c:\users\rgrv8\onedrive\documentos\visual studio 2017\Projects\WpfApp7\WpfApp7\bin\Debug\WpfApp7.pdb
+c:\users\rgrv8\onedrive\documentos\visual studio 2017\Projects\WpfApp7\WpfApp7\obj\Debug\WpfApp7.csprojResolveAssemblyReference.cache
+c:\users\rgrv8\onedrive\documentos\visual studio 2017\Projects\WpfApp7\WpfApp7\obj\Debug\MainWindow.g.cs
+c:\users\rgrv8\onedrive\documentos\visual studio 2017\Projects\WpfApp7\WpfApp7\obj\Debug\App.g.cs
+c:\users\rgrv8\onedrive\documentos\visual studio 2017\Projects\WpfApp7\WpfApp7\obj\Debug\WpfApp7_MarkupCompile.cache
+c:\users\rgrv8\onedrive\documentos\visual studio 2017\Projects\WpfApp7\WpfApp7\obj\Debug\WpfApp7_MarkupCompile.lref
+c:\users\rgrv8\onedrive\documentos\visual studio 2017\Projects\WpfApp7\WpfApp7\obj\Debug\MainWindow.baml
+c:\users\rgrv8\onedrive\documentos\visual studio 2017\Projects\WpfApp7\WpfApp7\obj\Debug\WpfApp7.g.resources
+c:\users\rgrv8\onedrive\documentos\visual studio 2017\Projects\WpfApp7\WpfApp7\obj\Debug\WpfApp7.Properties.Resources.resources
+c:\users\rgrv8\onedrive\documentos\visual studio 2017\Projects\WpfApp7\WpfApp7\obj\Debug\WpfApp7.csproj.GenerateResource.Cache
+c:\users\rgrv8\onedrive\documentos\visual studio 2017\Projects\WpfApp7\WpfApp7\obj\Debug\WpfApp7.exe
+c:\users\rgrv8\onedrive\documentos\visual studio 2017\Projects\WpfApp7\WpfApp7\obj\Debug\WpfApp7.pdb
+c:\users\rgrv8\onedrive\documentos\visual studio 2017\Projects\WpfApp7\WpfApp7\obj\Debug\Window1.g.cs
+c:\users\rgrv8\onedrive\documentos\visual studio 2017\Projects\WpfApp7\WpfApp7\obj\Debug\Window1.baml
